@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @NihatAliy3v
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<img src="https://media.giphy.com/media/mJzKn0z9GGkkjRhrI5/giphy.gif"  height="300" width="400">
 
-<!---
-NihatAliy3v/NihatAliy3v is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Hi, I'm Nihat Aliyev. :blush:
+
+## Frontend Developer
